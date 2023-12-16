@@ -24,6 +24,9 @@ This dataset looked at data based on the following information:
 
 ## Data Source
 Data Source: https://www.kaggle.com/datasets/sazidthe1/global-happiness-scores-and-factors/
+Geospatial Source: https://geojson-maps.ash.ms/
+Time Series Source: https://data.nasdaq.com/institutional-investors
+
 
 ## Visualizations in Tableau
 https://public.tableau.com/app/profile/claudia.lan2171/viz/HowHappyistheWorld_CLYC/HowHappyistheWorldby2023?publish=yes

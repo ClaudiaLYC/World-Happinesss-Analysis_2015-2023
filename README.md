@@ -23,9 +23,9 @@ This dataset looked at data based on the following information:
 - Year (2015-2019)
 
 ## Data Source
-Data Source: https://www.kaggle.com/datasets/sazidthe1/global-happiness-scores-and-factors/
-Geospatial Source: https://geojson-maps.ash.ms/
-Time Series Source: https://data.nasdaq.com/institutional-investors
+Data Source: https://www.kaggle.com/datasets/sazidthe1/global-happiness-scores-and-factors/  
+Geospatial Source: https://geojson-maps.ash.ms/  
+Time Series Source: https://data.nasdaq.com/institutional-investors  
 
 
 ## Visualizations in Tableau
